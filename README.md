@@ -1,6 +1,8 @@
 # Eye Tracker for Depression Detection
 Eye Tracker tracks the eyeball movement. Can be used for various purposes like depression detection and test proctoring.
 
+The following eye tracker can be used to detect depression while answering a Standard Questionnaire. Gaze tracking can be used to monitor patients while they answer the questions. Research has shown that depressed patients depict higher eye movement/ restlessness while answering. 
+
 Make sure to download all files in the same directory.
 To run the product, use - 
 python eye_tracker.py --shape-predictor shape_predictor_68_face_landmarks.dat
