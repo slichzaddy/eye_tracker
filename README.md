@@ -1,4 +1,4 @@
-Eye Tracker for Depression Detection
+# Eye Tracker for Depression Detection
 Eye Tracker tracks the eyeball movement. Can be used for various purposes like depression detection and test proctoring.
 
 Make sure to download all files in the same directory.
