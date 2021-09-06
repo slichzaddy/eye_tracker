@@ -9,5 +9,6 @@ Following is the methodology flowchart -
 ![Blank diagram](https://user-images.githubusercontent.com/43790568/132164172-5973defa-7744-4147-b01e-907f91275e31.jpeg)
 
 Following is the I/O screenshot - 
-![Screenshot (207)](https://user-images.githubusercontent.com/43790568/132164717-b374dd29-0025-43ee-aeb2-6c0d2d8356b8.png)
+![Screenshot (208)](https://user-images.githubusercontent.com/43790568/132164999-f7de9c91-85f0-430c-b9e8-88bc40b78c3f.png)
+
 
